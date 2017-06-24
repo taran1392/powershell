@@ -1,0 +1,9 @@
+"Server","Filepath","oldHash","currenthash","Match","remarks"
+"LHNR90C1HAX","D:\EXTRA\LOGSDATA.CSV",,,,"System.Management.Automation.ItemNotFoundException: Cannot find path '\\LHNR90C1HAX\D$\EXTRA\LOGSDATA.CSV' because it does not exist.
+   at System.Management.Automation.LocationGlobber.ExpandGlobPath(String path, Boolean allowNonexistingPaths, ContainerCmdletProvider provider, CmdletProviderContext context)
+   at System.Management.Automation.LocationGlobber.ResolveProviderPathFromProviderPath(String providerPath, String providerId, Boolean allowNonexistingPaths, CmdletProviderContext context, CmdletProvider& providerInstance)
+   at System.Management.Automation.LocationGlobber.ResolvePSPathFromProviderPath(String path, CmdletProviderContext context, Boolean allowNonexistingPaths, Boolean isProviderDirectPath, Boolean isProviderQualifiedPath, CmdletProvider& providerInstance)
+   at System.Management.Automation.LocationGlobber.GetGlobbedMonadPathsFromMonadPath(String path, Boolean allowNonexistingPaths, CmdletProviderContext context, CmdletProvider& providerInstance)
+   at Microsoft.PowerShell.Commands.ResolvePathCommand.ProcessRecord()"
+"LHNR90C1HAX","D:\EXTRA\logs_16.05.2017_0601.TXT","322DB913FB9389E6D0E62AA46AB2A41282E0C5656CAC9DB176C66AF02CC527B1","322DB913FB9389E6D0E62AA46AB2A41282E0C5656CAC9DB176C66AF02CC527B1","Yes",
+"LHNR90C1HAX","D:\EXTRA\LOGS1.CSV","361A7A6FF7AFE0E67B0B288C5E0A3FA2310039B6EF3BE416D58BA3B0E85FD10A","361A7A6FF7AFE0E67B0B288C5E0A3FA2310039B6EF3BE416D58BA3B0E85FD10A","Yes",

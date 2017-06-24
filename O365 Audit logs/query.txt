@@ -1,0 +1,26 @@
+
+
+query1
+
+merge o365auditlogs as T 
+using (select tenant,logid,createdon,auditdata,operation,userid,recordtype from o365auditlogsstagingtable2 group by tenant,logid,createdon,auditdata,recordtype,operation,userid) as S
+On (T.tenant=S.tenant and T.logid=S.logid)
+        when matched then
+                update set T.auditdata=S.auditdata
+        when not matched then 
+                insert(tenant,createdon,recordtype,userid,operation,auditdata,logid) values (S.tenant,S.createdon,S.recordtype,S.userid,S.operation,S.auditdata,S.logid);
+    
+
+	
+
+
+	if the above query fails then execute this
+
+merge o365auditlogs as T 
+using (select tenant,logid,createdon,auditdata,operation,userid,recordtype from o365auditlogsstagingtable2 group by tenant,logid,createdon,auditdata,recordtype,operation,userid) as S
+On (T.tenant=S.tenant and T.logid=S.logid and T.createdon=S.createdon)
+        when matched then
+                update set T.auditdata=S.auditdata
+        when not matched then 
+                insert(tenant,createdon,recordtype,userid,operation,auditdata,logid) values (S.tenant,S.createdon,S.recordtype,S.userid,S.operation,S.auditdata,S.logid);
+    

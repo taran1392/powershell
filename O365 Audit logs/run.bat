@@ -1,0 +1,1 @@
+powershell.exe -executionpolicy unrestricted -file ./main.ps1

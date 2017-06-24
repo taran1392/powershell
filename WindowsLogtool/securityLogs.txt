@@ -1,0 +1,2450 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844651","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{7323A799-EED3-41F7-96DA-79622A2EBCBB}
+	Name:		Wi-Fi Direct ASP Coordination Protocol (UDP-In)
+	Type:		%%16388
+	Run-Time ID:	173913
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	36277217994473472	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1428027539-3309602793-2678353003-1498846795-3763184142)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{b235ae9a-1d64-49b8-a44c-5ff3d9095045}
+	Match value:	In range
+	Condition value:	ff000000000000000000000000000000 - ffffffffffffffffffffffffffffffff
+
+	Condition ID:	{511166dc-7a8c-4aa7-b533-95ab59fb0340}
+	Match value:	Equal to
+	Condition value:	0x00000000
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844650","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{CE0603C1-5118-4B07-8189-B10D1236B8F6}
+	Name:		Wi-Fi Direct ASP Coordination Protocol (UDP-In)
+	Type:		%%16388
+	Run-Time ID:	173912
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	288478805717155840	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1428027539-3309602793-2678353003-1498846795-3763184142)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{b235ae9a-1d64-49b8-a44c-5ff3d9095045}
+	Match value:	In range
+	Condition value:	fe800000000000000000000000000000 - fe80000000000000ffffffffffffffff
+
+	Condition ID:	{72b1a111-987b-4720-99dd-c7c576fa2d4c}
+	Match value:	Equal to
+	Condition value:	0x00000000
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{632ce23b-5167-435c-86d7-e903684aa80c}
+	Match value:	All flags set
+	Condition value:	0x00000004
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844649","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{D22995B5-5405-44D9-B96A-31869CFD8111}
+	Name:		Wi-Fi Direct ASP Coordination Protocol (UDP-In)
+	Type:		%%16388
+	Run-Time ID:	173911
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	288478797127221248	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1428027539-3309602793-2678353003-1498846795-3763184142)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{b235ae9a-1d64-49b8-a44c-5ff3d9095045}
+	Match value:	In range
+	Condition value:	fe800000000000000000000000000000 - fe80000000000000ffffffffffffffff
+
+	Condition ID:	{511166dc-7a8c-4aa7-b533-95ab59fb0340}
+	Match value:	Equal to
+	Condition value:	0x00000000
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844648","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{7F63C2F8-142A-4437-9728-0924A1F67FC6}
+	Name:		Wi-Fi Direct ASP Coordination Protocol (UDP-In)
+	Type:		%%16388
+	Run-Time ID:	173910
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	74172814160035840	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1428027539-3309602793-2678353003-1498846795-3763184142)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{b235ae9a-1d64-49b8-a44c-5ff3d9095045}
+	Match value:	In range
+	Condition value:	0xe0000000 - 0xefffffff
+
+	Condition ID:	{72b1a111-987b-4720-99dd-c7c576fa2d4c}
+	Match value:	Equal to
+	Condition value:	0x00000000
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{632ce23b-5167-435c-86d7-e903684aa80c}
+	Match value:	All flags set
+	Condition value:	0x00000004
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844647","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{059BC6EB-222E-4AA0-999D-168A6171721B}
+	Name:		Wi-Fi Direct ASP Coordination Protocol (UDP-In)
+	Type:		%%16388
+	Run-Time ID:	173909
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	74172779800297472	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1428027539-3309602793-2678353003-1498846795-3763184142)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{b235ae9a-1d64-49b8-a44c-5ff3d9095045}
+	Match value:	In range
+	Condition value:	0xe0000000 - 0xefffffff
+
+	Condition ID:	{511166dc-7a8c-4aa7-b533-95ab59fb0340}
+	Match value:	Equal to
+	Condition value:	0x00000000
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844646","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{C71E02C2-3F81-4761-82EE-B61E4B0E7968}
+	Name:		Wi-Fi Direct ASP Coordination Protocol (UDP-In)
+	Type:		%%16388
+	Run-Time ID:	173908
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	434460784349675520	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1428027539-3309602793-2678353003-1498846795-3763184142)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{b235ae9a-1d64-49b8-a44c-5ff3d9095045}
+	Match value:	In range
+	Condition value:	0x0a05c000 - 0x0a05c0ff
+
+	Condition ID:	{72b1a111-987b-4720-99dd-c7c576fa2d4c}
+	Match value:	Equal to
+	Condition value:	0x00000000
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{632ce23b-5167-435c-86d7-e903684aa80c}
+	Match value:	All flags set
+	Condition value:	0x00000004
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844645","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{42B92E80-26D5-4666-A7DB-D2863AB9F7F6}
+	Name:		Wi-Fi Direct ASP Coordination Protocol (UDP-In)
+	Type:		%%16388
+	Run-Time ID:	173907
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	434460749989937152	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1428027539-3309602793-2678353003-1498846795-3763184142)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Condition ID:	{b235ae9a-1d64-49b8-a44c-5ff3d9095045}
+	Match value:	In range
+	Condition value:	0x0a05c000 - 0x0a05c0ff
+
+	Condition ID:	{511166dc-7a8c-4aa7-b533-95ab59fb0340}
+	Match value:	Equal to
+	Condition value:	0x00000000
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x1c43
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844644","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{BE2C3832-5CFF-436C-82F6-9F2572EDF737}
+	Name:		Allow Out http traffic from WinDefend
+	Type:		%%16388
+	Run-Time ID:	173688
+
+Layer Information:
+	ID:		{4A72393B-319F-44BC-84C3-BA54DCB3B6B4}
+	Name:		ALE Connect v6 Layer
+	Run-Time ID:	50
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	106085692211200	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  70 00 72 00 6f 00 67 00-72 00 61 00 6d 00 20 00  p.r.o.g.r.a.m. .
+    00000040  66 00 69 00 6c 00 65 00-73 00 5c 00 77 00 69 00  f.i.l.e.s.\.w.i.
+    00000050  6e 00 64 00 6f 00 77 00-73 00 20 00 64 00 65 00  n.d.o.w.s. .d.e.
+    00000060  66 00 65 00 6e 00 64 00-65 00 72 00 5c 00 6d 00  f.e.n.d.e.r.\.m.
+    00000070  73 00 6d 00 70 00 65 00-6e 00 67 00 2e 00 65 00  s.m.p.e.n.g...e.
+    00000080  78 00 65 00 00 00                                x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1913148863-3492339771-4165695881-2087618961-4109116736)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x0050
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844643","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{8220B6BF-EFD7-4A7A-856A-18B7A90D9C48}
+	Name:		Allow Out http traffic from WinDefend
+	Type:		%%16388
+	Run-Time ID:	173687
+
+Layer Information:
+	ID:		{C38D57D1-05A7-4C33-904F-7FBCEEE60E82}
+	Name:		ALE Connect v4 Layer
+	Run-Time ID:	48
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	424342768844800	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  70 00 72 00 6f 00 67 00-72 00 61 00 6d 00 20 00  p.r.o.g.r.a.m. .
+    00000040  66 00 69 00 6c 00 65 00-73 00 5c 00 77 00 69 00  f.i.l.e.s.\.w.i.
+    00000050  6e 00 64 00 6f 00 77 00-73 00 20 00 64 00 65 00  n.d.o.w.s. .d.e.
+    00000060  66 00 65 00 6e 00 64 00-65 00 72 00 5c 00 6d 00  f.e.n.d.e.r.\.m.
+    00000070  73 00 6d 00 70 00 65 00-6e 00 67 00 2e 00 65 00  s.m.p.e.n.g...e.
+    00000080  78 00 65 00 00 00                                x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1913148863-3492339771-4165695881-2087618961-4109116736)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x0050
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844642","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{40C60CD9-25BF-4184-8AEE-9E33E4466216}
+	Name:		Allow SSL Out traffic from WinDefend
+	Type:		%%16388
+	Run-Time ID:	173686
+
+Layer Information:
+	ID:		{4A72393B-319F-44BC-84C3-BA54DCB3B6B4}
+	Name:		ALE Connect v6 Layer
+	Run-Time ID:	50
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	106085692211200	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  70 00 72 00 6f 00 67 00-72 00 61 00 6d 00 20 00  p.r.o.g.r.a.m. .
+    00000040  66 00 69 00 6c 00 65 00-73 00 5c 00 77 00 69 00  f.i.l.e.s.\.w.i.
+    00000050  6e 00 64 00 6f 00 77 00-73 00 20 00 64 00 65 00  n.d.o.w.s. .d.e.
+    00000060  66 00 65 00 6e 00 64 00-65 00 72 00 5c 00 6d 00  f.e.n.d.e.r.\.m.
+    00000070  73 00 6d 00 70 00 65 00-6e 00 67 00 2e 00 65 00  s.m.p.e.n.g...e.
+    00000080  78 00 65 00 00 00                                x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1913148863-3492339771-4165695881-2087618961-4109116736)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x01bb
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844641","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{14BE6EA3-0323-47A4-9646-473CA586875B}
+	Name:		Allow SSL Out traffic from WinDefend
+	Type:		%%16388
+	Run-Time ID:	173685
+
+Layer Information:
+	ID:		{C38D57D1-05A7-4C33-904F-7FBCEEE60E82}
+	Name:		ALE Connect v4 Layer
+	Run-Time ID:	48
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	424342768844800	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  70 00 72 00 6f 00 67 00-72 00 61 00 6d 00 20 00  p.r.o.g.r.a.m. .
+    00000040  66 00 69 00 6c 00 65 00-73 00 5c 00 77 00 69 00  f.i.l.e.s.\.w.i.
+    00000050  6e 00 64 00 6f 00 77 00-73 00 20 00 64 00 65 00  n.d.o.w.s. .d.e.
+    00000060  66 00 65 00 6e 00 64 00-65 00 72 00 5c 00 6d 00  f.e.n.d.e.r.\.m.
+    00000070  73 00 6d 00 70 00 65 00-6e 00 67 00 2e 00 65 00  s.m.p.e.n.g...e.
+    00000080  78 00 65 00 00 00                                x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1913148863-3492339771-4165695881-2087618961-4109116736)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x01bb
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844640","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{C77B7593-7AE6-4C96-A9D1-179751047F29}
+	Name:		Allow NTP traffic from Wcmsvc
+	Type:		%%16388
+	Run-Time ID:	173684
+
+Layer Information:
+	ID:		{4A72393B-319F-44BC-84C3-BA54DCB3B6B4}
+	Name:		ALE Connect v6 Layer
+	Run-Time ID:	50
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	106085692211200	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-4155767994-3874329934-3800885181-2130851812-726865888)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x007b
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844639","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{39476045-133D-40F6-B38F-E81597904570}
+	Name:		Allow NTP traffic from Wcmsvc
+	Type:		%%16388
+	Run-Time ID:	173683
+
+Layer Information:
+	ID:		{C38D57D1-05A7-4C33-904F-7FBCEEE60E82}
+	Name:		ALE Connect v4 Layer
+	Run-Time ID:	48
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	424342768844800	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-4155767994-3874329934-3800885181-2130851812-726865888)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Condition ID:	{c35a604d-d22b-4e1a-91b4-68f674ee674b}
+	Match value:	Equal to
+	Condition value:	0x007b
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844638","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{9F13ED6E-8718-4B45-BB05-5E14F0262DF8}
+	Name:		Allow TCP traffic from Wcmsvc
+	Type:		%%16388
+	Run-Time ID:	173682
+
+Layer Information:
+	ID:		{4A72393B-319F-44BC-84C3-BA54DCB3B6B4}
+	Name:		ALE Connect v6 Layer
+	Run-Time ID:	50
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	105604655874048	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-4155767994-3874329934-3800885181-2130851812-726865888)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844637","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{0449E3D6-7412-45FB-8679-D26A8A2C94B5}
+	Name:		Allow TCP traffic from Wcmsvc
+	Type:		%%16388
+	Run-Time ID:	173681
+
+Layer Information:
+	ID:		{C38D57D1-05A7-4C33-904F-7FBCEEE60E82}
+	Name:		ALE Connect v4 Layer
+	Run-Time ID:	48
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	422418623496192	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-4155767994-3874329934-3800885181-2130851812-726865888)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844636","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{80A7C5A6-BACC-4919-BABA-175C21186464}
+	Name:		Allow inbound RPC traffic to the Block Level Backup service (wbengine) over TCP
+	Type:		%%16388
+	Run-Time ID:	173680
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	211316685930496	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 77 00 62 00 65 00-6e 00 67 00 69 00 6e 00  \.w.b.e.n.g.i.n.
+    00000060  65 00 2e 00 65 00 78 00-65 00 00 00              e...e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1549550529-11381693-4027442525-4081535042-2424139505)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{b9f4e088-cb98-4efb-a2c7-ad07332643db}
+	Match value:	Equal to
+	Condition value:	0x00000001
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844635","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{01360795-DE1A-4A99-8A17-05D442A6792C}
+	Name:		Allow inbound RPC traffic to the Block Level Backup service (wbengine) over TCP
+	Type:		%%16388
+	Run-Time ID:	173679
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	1971166650564608	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 77 00 62 00 65 00-6e 00 67 00 69 00 6e 00  \.w.b.e.n.g.i.n.
+    00000060  65 00 2e 00 65 00 78 00-65 00 00 00              e...e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-1549550529-11381693-4027442525-4081535042-2424139505)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{b9f4e088-cb98-4efb-a2c7-ad07332643db}
+	Match value:	Equal to
+	Condition value:	0x00000001
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844634","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{08CE43F4-F112-4E12-99AF-928271BF8448}
+	Name:		Allow outbound TCP traffic for vmicheartbeat
+	Type:		%%16388
+	Run-Time ID:	173678
+
+Layer Information:
+	ID:		{4A72393B-319F-44BC-84C3-BA54DCB3B6B4}
+	Name:		ALE Connect v6 Layer
+	Run-Time ID:	50
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	105604655874048	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-534935901-3437432317-481271085-1710633381-983106267)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844633","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{DF9244DA-37CF-449D-A1CB-5766CDFEC18A}
+	Name:		Allow outbound TCP traffic for vmicheartbeat
+	Type:		%%16388
+	Run-Time ID:	173677
+
+Layer Information:
+	ID:		{C38D57D1-05A7-4C33-904F-7FBCEEE60E82}
+	Name:		ALE Connect v4 Layer
+	Run-Time ID:	48
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	422418623496192	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-534935901-3437432317-481271085-1710633381-983106267)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844632","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{95055E08-9A86-431E-96EB-2A65E185F17A}
+	Name:		Allow inbound TCP port 636 traffic for vmicheartbeat
+	Type:		%%16388
+	Run-Time ID:	173676
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	246496763052032	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-534935901-3437432317-481271085-1710633381-983106267)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x027c
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844631","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{411B628C-34EB-41AE-941F-84887BD91232}
+	Name:		Allow inbound TCP port 636 traffic for vmicheartbeat
+	Type:		%%16388
+	Run-Time ID:	173675
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	2111886959050752	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-534935901-3437432317-481271085-1710633381-983106267)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x027c
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844630","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{99349162-7DA7-43A4-B44C-D0312FAF8F60}
+	Name:		Allow inbound TCP port 389 traffic for vmicheartbeat
+	Type:		%%16388
+	Run-Time ID:	173674
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	246496763052032	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-534935901-3437432317-481271085-1710633381-983106267)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x0185
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844629","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{3F7356D5-F2F8-4CFF-9CFB-65A02F46AEEB}
+	Name:		Allow inbound TCP port 389 traffic for vmicheartbeat
+	Type:		%%16388
+	Run-Time ID:	173673
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	2111886959050752	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-534935901-3437432317-481271085-1710633381-983106267)
+
+
+	Condition ID:	{0c1ba1af-5765-453f-af22-a8f791ac775b}
+	Match value:	Equal to
+	Condition value:	0x0185
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844628","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{7D841C15-B0F1-49A2-A273-BBE9CDFE202A}
+	Name:		Allow incoming RPC traffic to VDS
+	Type:		%%16388
+	Run-Time ID:	173672
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	211316685930496	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 76 00 64 00 73 00-2e 00 65 00 78 00 65 00  \.v.d.s...e.x.e.
+    00000060  00 00                                            ..
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-2196396108-1448510645-203779624-3888580976-3789157697)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{b9f4e088-cb98-4efb-a2c7-ad07332643db}
+	Match value:	Equal to
+	Condition value:	0x00000001
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844627","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{97B14AF7-3B02-4A5A-B091-6BF7399A0A4F}
+	Name:		Allow incoming RPC traffic to VDS
+	Type:		%%16388
+	Run-Time ID:	173671
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	1971166650564608	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 76 00 64 00 73 00-2e 00 65 00 78 00 65 00  \.v.d.s...e.x.e.
+    00000060  00 00                                            ..
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-2196396108-1448510645-203779624-3888580976-3789157697)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Condition ID:	{b9f4e088-cb98-4efb-a2c7-ad07332643db}
+	Match value:	Equal to
+	Condition value:	0x00000001
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844626","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{FCE4C5A3-C05F-401E-AE6C-454295C9D79B}
+	Name:		TermServiceLOM
+	Type:		%%16388
+	Run-Time ID:	173670
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{63018537-F281-4DC4-83D3-8DEC18B7ADE2}
+	Name:		WFP Built-in Set Option ALE Receive/Accept v6 Layer Callout
+
+Additional Information:
+	Weight:	18446744073709551615	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-446051430-1559341753-4161941529-1950928533-810483104)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Filter Action:	%%16391","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844625","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{8B17A225-AD8A-4CE8-9148-15919432899B}
+	Name:		TermServiceLOM
+	Type:		%%16388
+	Run-Time ID:	173669
+
+Layer Information:
+	ID:		{A3B42C97-9F04-4672-B87E-CEE9C483257F}
+	Name:		ALE Receive/Accept v6 Layer
+	Run-Time ID:	46
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	211312390963200	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-446051430-1559341753-4161941529-1950928533-810483104)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844624","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{1C0C18D8-B5C5-4D41-AADA-1CB9167D28E9}
+	Name:		TermServiceLOM
+	Type:		%%16388
+	Run-Time ID:	173668
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{2D55F008-0C01-4F92-B26E-A08A94569B8D}
+	Name:		WFP Built-in Set Option ALE Receive/Accept v4 Layer Callout
+
+Additional Information:
+	Weight:	18446744073709551615	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-446051430-1559341753-4161941529-1950928533-810483104)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Filter Action:	%%16391","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844623","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{31726069-8875-4D2C-8F56-AE635643A698}
+	Name:		TermServiceLOM
+	Type:		%%16388
+	Run-Time ID:	173667
+
+Layer Information:
+	ID:		{E1CD9FE7-F4B5-4273-96C0-592E487B8650}
+	Name:		ALE Receive/Accept v4 Layer
+	Run-Time ID:	44
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	1971149470695424	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 76 00 63 00-68 00 6f 00 73 00 74 00  \.s.v.c.h.o.s.t.
+    00000060  2e 00 65 00 78 00 65 00-00 00                    ..e.x.e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-446051430-1559341753-4161941529-1950928533-810483104)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x11
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5447","LHNR90C1HAX.am.adecco.net","System.Byte[]","844622","(13573)","13573","SuccessAudit","A Windows Filtering Platform filter has been changed.
+	
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		NT AUTHORITY\LOCAL SERVICE
+
+Process Information:
+	Process ID:	1252
+
+Provider Information:
+	ID:		{4B153735-1049-4480-AAB4-D1B9BDC03710}
+	Name:		Microsoft Corporation
+
+Change Information:
+	Change Type:	%%16385
+
+Filter Information:
+	ID:		{D2B91D18-E609-48BA-BDF0-732DFBC6DBEB}
+	Name:		Allow all outbound TCP and RPC from SPPEXTCOMOBJ
+	Type:		%%16388
+	Run-Time ID:	173666
+
+Layer Information:
+	ID:		{4A72393B-319F-44BC-84C3-BA54DCB3B6B4}
+	Name:		ALE Connect v6 Layer
+	Run-Time ID:	50
+
+Callout Information:
+	ID:		{00000000-0000-0000-0000-000000000000}
+	Name:		-
+
+Additional Information:
+	Weight:	105604655874048	
+	Conditions:	
+	Condition ID:	{d78e1e87-8644-4ea5-9437-d809ecefc971}
+	Match value:	Equal to
+	Condition value:	
+    00000000  5c 00 64 00 65 00 76 00-69 00 63 00 65 00 5c 00  \.d.e.v.i.c.e.\.
+    00000010  68 00 61 00 72 00 64 00-64 00 69 00 73 00 6b 00  h.a.r.d.d.i.s.k.
+    00000020  76 00 6f 00 6c 00 75 00-6d 00 65 00 32 00 5c 00  v.o.l.u.m.e.2.\.
+    00000030  77 00 69 00 6e 00 64 00-6f 00 77 00 73 00 5c 00  w.i.n.d.o.w.s.\.
+    00000040  73 00 79 00 73 00 74 00-65 00 6d 00 33 00 32 00  s.y.s.t.e.m.3.2.
+    00000050  5c 00 73 00 70 00 70 00-65 00 78 00 74 00 63 00  \.s.p.p.e.x.t.c.
+    00000060  6f 00 6d 00 6f 00 62 00-6a 00 2e 00 65 00 78 00  o.m.o.b.j...e.x.
+    00000070  65 00 00 00                                      e...
+
+
+	Condition ID:	{af043a0a-b34d-4f86-979c-c90371af6e66}
+	Match value:	Equal to
+	Condition value:	
+O:SYG:SYD:(A;;CCRC;;;S-1-5-80-3895724531-1583119856-3186271294-3795977770-3211684703)
+
+
+	Condition ID:	{3971ef2b-623e-4f9a-8cb1-6e79b806b9a7}
+	Match value:	Equal to
+	Condition value:	0x06
+
+	Filter Action:	%%16390","Microsoft-Windows-Security-Auditing","System.String[]","5447","10-03-2017 22:44:33","10-03-2017 22:44:33",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844826","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:45","10-03-2017 22:44:45",,,
+"5157","LHNR90C1HAX.am.adecco.net","System.Byte[]","844825","(12810)","12810","FailureAudit","The Windows Filtering Platform has blocked a connection.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5157","10-03-2017 22:44:45","10-03-2017 22:44:45",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844824","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:45","10-03-2017 22:44:45",,,
+"5157","LHNR90C1HAX.am.adecco.net","System.Byte[]","844823","(12810)","12810","FailureAudit","The Windows Filtering Platform has blocked a connection.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5157","10-03-2017 22:44:44","10-03-2017 22:44:44",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844822","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:44","10-03-2017 22:44:44",,,
+"5157","LHNR90C1HAX.am.adecco.net","System.Byte[]","844821","(12810)","12810","FailureAudit","The Windows Filtering Platform has blocked a connection.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5157","10-03-2017 22:44:44","10-03-2017 22:44:44",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844820","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:44","10-03-2017 22:44:44",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844819","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.142
+	Source Port:		68
+	Destination Address:	255.255.255.255
+	Destination Port:		67
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:40","10-03-2017 22:44:40",,,
+"5157","LHNR90C1HAX.am.adecco.net","System.Byte[]","844818","(12810)","12810","FailureAudit","The Windows Filtering Platform has blocked a connection.
+
+Application Information:
+	Process ID:		324
+	Application Name:	\device\harddiskvolume2\windows\system32\svchost.exe
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.114
+	Source Port:		5353
+	Destination Address:	224.0.0.251
+	Destination Port:		5353
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5157","10-03-2017 22:44:39","10-03-2017 22:44:39",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844817","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		324
+	Application Name:	\device\harddiskvolume2\windows\system32\svchost.exe
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.114
+	Source Port:		5353
+	Destination Address:	224.0.0.251
+	Destination Port:		5353
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:39","10-03-2017 22:44:39",,,
+"5157","LHNR90C1HAX.am.adecco.net","System.Byte[]","844816","(12810)","12810","FailureAudit","The Windows Filtering Platform has blocked a connection.
+
+Application Information:
+	Process ID:		324
+	Application Name:	\device\harddiskvolume2\windows\system32\svchost.exe
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.114
+	Source Port:		5353
+	Destination Address:	224.0.0.251
+	Destination Port:		5353
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5157","10-03-2017 22:44:39","10-03-2017 22:44:39",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844815","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		324
+	Application Name:	\device\harddiskvolume2\windows\system32\svchost.exe
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.114
+	Source Port:		5353
+	Destination Address:	224.0.0.251
+	Destination Port:		5353
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:39","10-03-2017 22:44:39",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844814","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.226
+	Source Port:		68
+	Destination Address:	255.255.255.255
+	Destination Port:		67
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:39","10-03-2017 22:44:39",,,
+"4656","LHNR90C1HAX.am.adecco.net","System.Byte[]","844813","(12802)","12802","FailureAudit","A handle to an object was requested.
+
+Subject:
+	Security ID:		S-1-5-21-538280589-933146710-61466313-2526509
+	Account Name:		singh_t
+	Account Domain:		AM
+	Logon ID:		0x5009b
+
+Object:
+	Object Server:		Security
+	Object Type:		Process
+	Object Name:		\Device\HarddiskVolume2\Windows\System32\lsass.exe
+	Handle ID:		0x0
+	Resource Attributes:	-
+
+Process Information:
+	Process ID:		0x20d4
+	Process Name:		C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+
+Access Request Information:
+	Transaction ID:		{00000000-0000-0000-0000-000000000000}
+	Accesses:		%%4484
+				%%4490
+				
+	Access Reasons:		-
+	Access Mask:		0x410
+	Privileges Used for Access Check:	-
+	Restricted SID Count:	0","Microsoft-Windows-Security-Auditing","System.String[]","4656","10-03-2017 22:44:38","10-03-2017 22:44:38",,,
+"4673","LHNR90C1HAX.am.adecco.net","System.Byte[]","844812","(13056)","13056","FailureAudit","A privileged service was called.
+
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		LOCAL SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3e5
+
+Service:
+	Server:	Security
+	Service Name:	-
+
+Process:
+	Process ID:	0x2c8
+	Process Name:	C:\Windows\System32\svchost.exe
+
+Service Request Information:
+	Privileges:		SeLoadDriverPrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4673","10-03-2017 22:44:37","10-03-2017 22:44:37",,,
+"4673","LHNR90C1HAX.am.adecco.net","System.Byte[]","844811","(13056)","13056","FailureAudit","A privileged service was called.
+
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		LOCAL SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3e5
+
+Service:
+	Server:	Security
+	Service Name:	-
+
+Process:
+	Process ID:	0x2c8
+	Process Name:	C:\Windows\System32\svchost.exe
+
+Service Request Information:
+	Privileges:		SeLoadDriverPrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4673","10-03-2017 22:44:37","10-03-2017 22:44:37",,,
+"4673","LHNR90C1HAX.am.adecco.net","System.Byte[]","844810","(13056)","13056","FailureAudit","A privileged service was called.
+
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		LOCAL SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3e5
+
+Service:
+	Server:	Security
+	Service Name:	-
+
+Process:
+	Process ID:	0x4e4
+	Process Name:	C:\Windows\System32\svchost.exe
+
+Service Request Information:
+	Privileges:		SeProfileSingleProcessPrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4673","10-03-2017 22:44:36","10-03-2017 22:44:36",,,
+"4673","LHNR90C1HAX.am.adecco.net","System.Byte[]","844809","(13056)","13056","FailureAudit","A privileged service was called.
+
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		LOCAL SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3e5
+
+Service:
+	Server:	Security
+	Service Name:	-
+
+Process:
+	Process ID:	0x4e4
+	Process Name:	C:\Windows\System32\svchost.exe
+
+Service Request Information:
+	Privileges:		SeProfileSingleProcessPrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4673","10-03-2017 22:44:36","10-03-2017 22:44:36",,,
+"4673","LHNR90C1HAX.am.adecco.net","System.Byte[]","844808","(13056)","13056","FailureAudit","A privileged service was called.
+
+Subject:
+	Security ID:		S-1-5-19
+	Account Name:		LOCAL SERVICE
+	Account Domain:		NT AUTHORITY
+	Logon ID:		0x3e5
+
+Service:
+	Server:	Security
+	Service Name:	-
+
+Process:
+	Process ID:	0x4e4
+	Process Name:	C:\Windows\System32\svchost.exe
+
+Service Request Information:
+	Privileges:		SeProfileSingleProcessPrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4673","10-03-2017 22:44:36","10-03-2017 22:44:36",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844807","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.175
+	Source Port:		68
+	Destination Address:	255.255.255.255
+	Destination Port:		67
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:36","10-03-2017 22:44:36",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844806","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14593
+	Source Address:		10.5.192.161
+	Source Port:		0
+	Destination Address:	10.5.89.14
+	Destination Port:		0
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	175229
+	Layer Name:		%%14601
+	Layer Run-Time ID:	32","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:36","10-03-2017 22:44:36",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844805","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.89.14
+	Source Port:		53
+	Destination Address:	10.5.192.161
+	Destination Port:		55703
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:36","10-03-2017 22:44:36",,,
+"5157","LHNR90C1HAX.am.adecco.net","System.Byte[]","844804","(12810)","12810","FailureAudit","The Windows Filtering Platform has blocked a connection.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5157","10-03-2017 22:44:35","10-03-2017 22:44:35",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844803","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		4
+	Application Name:	System
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.1
+	Source Port:		0
+	Destination Address:	10.5.192.161
+	Destination Port:		5
+	Protocol:		1
+
+Filter Information:
+	Filter Run-Time ID:	173958
+	Layer Name:		%%14610
+	Layer Run-Time ID:	44","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:35","10-03-2017 22:44:35",,,
+"4673","LHNR90C1HAX.am.adecco.net","System.Byte[]","844802","(13056)","13056","FailureAudit","A privileged service was called.
+
+Subject:
+	Security ID:		S-1-5-21-538280589-933146710-61466313-2526509
+	Account Name:		singh_t
+	Account Domain:		AM
+	Logon ID:		0x5009b
+
+Service:
+	Server:	Security
+	Service Name:	-
+
+Process:
+	Process ID:	0x6dc
+	Process Name:	C:\Windows\System32\RuntimeBroker.exe
+
+Service Request Information:
+	Privileges:		SeLoadDriverPrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4673","10-03-2017 22:44:34","10-03-2017 22:44:34",,,
+"4673","LHNR90C1HAX.am.adecco.net","System.Byte[]","844801","(13056)","13056","FailureAudit","A privileged service was called.
+
+Subject:
+	Security ID:		S-1-5-21-538280589-933146710-61466313-2526509
+	Account Name:		singh_t
+	Account Domain:		AM
+	Logon ID:		0x5009b
+
+Service:
+	Server:	Security
+	Service Name:	-
+
+Process:
+	Process ID:	0xb44
+	Process Name:	C:\Windows\explorer.exe
+
+Service Request Information:
+	Privileges:		SeLoadDriverPrivilege","Microsoft-Windows-Security-Auditing","System.String[]","4673","10-03-2017 22:44:34","10-03-2017 22:44:34",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844800","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.184
+	Source Port:		68
+	Destination Address:	255.255.255.255
+	Destination Port:		67
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:34","10-03-2017 22:44:34",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844799","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.121
+	Source Port:		137
+	Destination Address:	10.5.192.255
+	Destination Port:		137
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:34","10-03-2017 22:44:34",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844798","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.149
+	Source Port:		137
+	Destination Address:	10.5.192.255
+	Destination Port:		137
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:34","10-03-2017 22:44:34",,,
+"5152","LHNR90C1HAX.am.adecco.net","System.Byte[]","844797","(12809)","12809","FailureAudit","The Windows Filtering Platform has blocked a packet.
+
+Application Information:
+	Process ID:		0
+	Application Name:	-
+
+Network Information:
+	Direction:		%%14592
+	Source Address:		10.5.192.121
+	Source Port:		137
+	Destination Address:	10.5.192.255
+	Destination Port:		137
+	Protocol:		17
+
+Filter Information:
+	Filter Run-Time ID:	175227
+	Layer Name:		%%14597
+	Layer Run-Time ID:	13","Microsoft-Windows-Security-Auditing","System.String[]","5152","10-03-2017 22:44:34","10-03-2017 22:44:34",,,
