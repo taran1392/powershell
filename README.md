@@ -1,8 +1,11 @@
 # powershell
 Powershell Scripts
 
-##Description
+# Description
 All the scripts written by me 
 
-##Author
-  Tarandeep Singh - taran1392@gmail.com
+# Author
+Tarandeep Singh - taran1392@gmail.com
+
+#Note:
+practicing git commands
